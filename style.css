@@ -63,3 +63,69 @@ body{
 .contacts p{
     font-size: 20px;
 }
+.information-header{
+    width: 420px;
+    margin:auto;
+
+    
+    border-radius: 50px;
+    border-color:#d5d7d9;
+    border-right-width: 9px;
+    border-left-width: 9px;
+    border-style: solid;
+
+    font-size: 52px;
+
+    background-color: #d5d7d9;
+}
+.information-header h3{
+    border-radius: 50px 50px 50px 50px;
+    background-color: white;
+    color: #000000;
+    padding-left: 50px;
+    margin-left:auto;
+}
+
+.information h2{
+    padding: 15px 15px 15px 55px;
+    color:#687e94;
+    font-size: 26px;
+     
+}
+
+.information p{
+    margin-left:15px;
+    margin-right: 15px;
+    color:#fff;
+    text-align: left;
+    text-indent: 40px;
+    line-height:28px
+    
+}
+
+.information ul{
+    padding-bottom: 15px;
+}
+
+.information h3{
+    padding:0px 0px 15px 30px;
+}
+
+.code-examples{
+    margin-left:20px;
+}
+
+.code-examples p{
+    
+    margin-left:10px;
+    font-size: 40pt;
+}
+
+.code-examples pre{
+    width: 610px;
+    padding:15px ;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    background-color: #363f4ba1;
+    line-height:24px
+}
